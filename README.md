@@ -1,6 +1,6 @@
 <img src="github img for readme.gif" width="35%">
 # 💫 About Me:
-<br>-To apply my strong technical skills, problem-solving abilities, and passion for computer science in a challenging role as a software engineer<br>•Institute of Engineering and Management                                                                                                  July 2020 - June 2024<br>Bachelor of Technology - Computer Science and Engineering (AIML), Kolkata, West Bengal;	                           GPA : 9.59<br>
+<br>-To apply my strong technical skills, problem-solving abilities, and passion for computer science in a challenging role as a software engineer<br>•Institute of Engineering and Management                                                                                                  July 2020 - June 2024<br>Bachelor of Technology - Computer Science and Engineering (AIML), Kolkata, West Bengal;	                           GPA : 9.586<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=P-4-PRATYUSH-RANJAN&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=P-4-PRATYUSH-RANJAN&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
