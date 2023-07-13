@@ -1,4 +1,4 @@
-<img src="github img for readme.gif" width="35%">
+
 # 💫 About Me:
 <br>-To apply my strong technical skills, problem-solving abilities, and passion for computer science in a challenging role as a software engineer<br>•Institute of Engineering and Management                                                                                                  July 2020 - June 2024<br>Bachelor of Technology - Computer Science and Engineering (AIML), Kolkata, West Bengal;	                           AV. GPA : 9.586<br>
 
