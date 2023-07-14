@@ -1,4 +1,8 @@
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center" width="50">
 
+
+</div>
 # 💫 About Me:
 <br>-To apply my strong technical skills, problem-solving abilities, and passion for computer science in a challenging role as a software engineer<br>•Institute of Engineering and Management                                                                                                  July 2020 - June 2024<br>Bachelor of Technology - Computer Science and Engineering (AIML), Kolkata, West Bengal;	                           AV. GPA : 9.586<br>
 
