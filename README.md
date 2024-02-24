@@ -1,4 +1,4 @@
-HI<p align="center"><a href="[https://P-4-PRATYUSH-RANJAN.github.io](https://github.com/P-4-PRATYUSH-RANJAN)"><img width="80%" src="github-header-image (1).png" /></a></p>
+<p align="center"><a href="[https://P-4-PRATYUSH-RANJAN.github.io](https://github.com/P-4-PRATYUSH-RANJAN)"><img width="80%" src="github-header-image (1).png" /></a></p>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰s <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <div align="center" width="50">
